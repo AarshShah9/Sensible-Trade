@@ -1,6 +1,8 @@
 # Sensible-Trade
 Tech Stars Hackathon - StartUp Weekend 2024 Project
 
+Sensible Trade is a copy trading platform that will allow users to autenticate with their brokerage accounts and then open up their portfolio and trading history to other users at a flat rate montly subscription fee. During this hackathon weekend we created a React native application to show case what the MVP would look like. Additionally we carried out extensive market research with user interviews, narrowed down our customer segment, and pitched our idea to a crowd of over 100 people at Platfrom Calgary!
+
 ![1](https://github.com/user-attachments/assets/d9a3fd14-6136-47a2-ac8d-20592d505d98)
 ![2](https://github.com/user-attachments/assets/2a9e70e0-9aa1-4ac9-9ce3-6709fb3cfa42)
 ![3](https://github.com/user-attachments/assets/a33a553a-35cb-4ea4-82d6-66015568f4ae)
